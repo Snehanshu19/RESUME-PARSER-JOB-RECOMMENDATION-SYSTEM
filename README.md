@@ -83,4 +83,27 @@ resume-screening-ai/
 ```
 ### 📸 UI Preview
 
-![Image Alt Text](image-path)
+![Image Alt Text](ss1.jpg)
+![Image Alt Text](ss2.jpg)
+![Image Alt Text](ss3.jpg)
+![Image Alt Text](ss4.jpg)
+
+)
+
+### 🙌 Acknowledgments
+Machine Learning with sklearn
+
+PDF parsing using pdfminer.six
+
+Inspired by the need to automate HR processes using AI
+
+### 📬 Contact
+For questions, reach out via your-email@example.com or open an issue.
+
+### ⭐ Star this repo if it helped you!
+
+yaml
+```
+Let me know if you’d like help generating a screenshot banner for your README or deploying to Vercel/Render.
+```
+
