@@ -83,12 +83,12 @@ resume-screening-ai/
 ```
 ### 📸 UI Preview
 
+
 ![Image Alt Text](ss1.jpg)
 ![Image Alt Text](ss2.jpg)
 ![Image Alt Text](ss3.jpg)
 ![Image Alt Text](ss4.jpg)
 
-)
 
 ### 🙌 Acknowledgments
 Machine Learning with sklearn
